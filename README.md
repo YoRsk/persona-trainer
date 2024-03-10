@@ -11,9 +11,10 @@ This application serves as an innovative tool, utilizing advanced language model
 *assist remember all of chat by thread_id*
 
 
-<img src="images/game_page.png" width="100" height="100"， alt="Game Interface">  
+<img src="images/game_page.png" width="600" height="" alt="Game Interface">
 
-<img src="images/chat_page.png" width="100" height="100", alt="Chat Interface">
+<img src="images/chat_page.png" width="600" height="" alt="Chat Interface">
+
 ## Installation
 
 - **Requirement**:
