@@ -1,6 +1,6 @@
 # Persona Trainer
 
-Welcome to the AI Persona Trainer for Slang language Game(https://github.com/tanaka-0224/hackathon)! 
+Welcome to the AI Persona Trainer for Slang language Game(Frontend etc.. https://github.com/tanaka-0224/hackathon)! 
 
 This application serves as an innovative tool, utilizing advanced language models to interact and engage users through unique, conversational experiences.
 
